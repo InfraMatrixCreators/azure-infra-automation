@@ -1,0 +1,10 @@
+variable "nic_name" {}
+variable "rg_name" {}
+variable "vm_name" {}
+variable "vm_size" {}
+variable "admin_username" {}
+variable "admin_password" {}
+variable "rg_location" {}
+variable "image_publisher" {}
+variable "image_offer" {}
+variable "image_sku" {}
